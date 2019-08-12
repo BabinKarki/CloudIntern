@@ -1,0 +1,2 @@
+I used an Bubble Sort Algorithm.
+I used this algorithm to find the greatest and the smallest number. The smallest or biggest number is found out by continuously swapping the adjacent numbers.
